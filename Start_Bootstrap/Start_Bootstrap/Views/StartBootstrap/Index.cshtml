@@ -1,0 +1,81 @@
+﻿@model BootstrapVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+ <main>
+        <section id="startbootstrap">
+            <div class="bootstarpstart">
+                <div class="container">
+                    <div class="row">
+                        <div class="logo-image">
+                            <img src="~/assets/images/@Model.MainBootstraps.LogoImage" alt="">
+                        </div>
+                        <div class="logo-about">
+                            <h1>@Model.MainBootstraps.Title</h1>
+                           <span></span> <i class="@Model.MainBootstraps.Icon"></i> <span></span>
+                            <h4>@Model.MainBootstraps.SubTitle</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="portfolio">
+            <div class="portfolio-logo">
+                <h1>PORTFOLIO</h1>
+                <span></span><i class="fa-solid fa-star"></i><span></span>
+            </div>
+            <div class="container">
+                <div class="row">
+                    @foreach (var item in Model.Portfolios)
+                   {
+                       <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                        <div class="portfolio-image">
+                            <img src="~/assets/images/@item.Image" alt="">
+                        </div>
+                       </div>
+                   }
+                </div>
+            </div>
+        </section>
+
+        <section id="download-about">
+            <div class="about-logo">
+                <h1>@Model.Abouts.Logo</h1>
+                <span></span><i class="@Model.Abouts.Icon"></i><span></span>
+            </div>
+
+            <div class="about">
+                <ul class="d-flex">
+                    <li><span>@Model.Abouts.span1</span></li>
+                    <li><span>@Model.Abouts.span2</span></li>
+                </ul>
+            </div>
+            <div class="download-buton">
+                <button><i class="@Model.Abouts.ButonIcon"></i>@Model.Abouts.Butonabout</button>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="contact-logo">
+                <h1>CONTACT ME</h1>
+                <span></span><i class="fa-solid fa-star"></i><span></span>
+            </div>
+            <div class="contact d-flex justify-content-center">
+                <form action="">
+                    <input type="text" value="Full name"><br>
+                    <input type="text" value="Email adress"><br>
+                    <input type="text" value="Phone number"><br>
+                    <textarea name="Message" id="" cols="30" rows="10">Message</textarea><br>
+                </form>
+            </div>
+
+            <div class="buton">
+                <button>Send</button>
+            </div>
+        </section>
+
+    </main>
+
