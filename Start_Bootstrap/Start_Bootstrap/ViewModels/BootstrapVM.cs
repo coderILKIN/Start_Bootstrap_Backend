@@ -10,7 +10,5 @@ namespace Start_Bootstrap.ViewModels
         public List<Portfolio> Portfolios { get; set; }
 
         public About Abouts { get; set; }
-
-        public List<Size> Sizes{ get; set; }
     }
 }

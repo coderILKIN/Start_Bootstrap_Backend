@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NqLiN5KXFinOjU5DuYQGKoub02cHRuteY1uCH8SRDa1w/MZXzrCZNcm05sk6De7Hdxn09x+e7SILfnnED2KUyQ==",
+  "dgSpecHash": "lqWQQGnoZLoylUXc1GdG9WoST3NU1uMZ2jygw93uO8oCXoG+1x86sAtsMo2GPi56I+wVrKRvTDkOyYeKQonBXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilkin\\source\\repos\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj",
+  "projectFilePath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\New folder (3)\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

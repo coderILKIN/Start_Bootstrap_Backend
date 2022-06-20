@@ -429,9 +429,9 @@ main #startbootstrap .bootstarpstart .logo-about h4 {
 
 /* startbootstrap end */
 /* portfolio start */
-@media only screen and (min-width: 576px) {
+@media only screen and (max-width: 768px) {
   #portfolio .portfolio-image {
-    margin-left: 55px;
+    margin: 20px 65px;
   }
 }
 

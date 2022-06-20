@@ -16,6 +16,5 @@ namespace Start_Bootstrap.DAL
 
         public DbSet<About> Abouts { get; set; }
 
-        public DbSet<Size> Sizes { get; set; }
     }
 }

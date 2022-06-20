@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilkin\\source\\repos\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj": {}
+    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\New folder (3)\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilkin\\source\\repos\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj": {
+    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\New folder (3)\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilkin\\source\\repos\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj",
+        "projectUniqueName": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\New folder (3)\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj",
         "projectName": "Start_Bootstrap",
-        "projectPath": "C:\\Users\\ilkin\\source\\repos\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj",
+        "projectPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\New folder (3)\\Start_Bootstrap\\Start_Bootstrap\\Start_Bootstrap.csproj",
         "packagesPath": "C:\\Users\\ilkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilkin\\source\\repos\\Start_Bootstrap\\Start_Bootstrap\\obj\\",
+        "outputPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\New folder (3)\\Start_Bootstrap\\Start_Bootstrap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
